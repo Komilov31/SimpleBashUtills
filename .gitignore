@@ -2,6 +2,7 @@
 *.d
 *.out
 *.clang-format
+*.DS_Store
 
 # Object files
 *.o
